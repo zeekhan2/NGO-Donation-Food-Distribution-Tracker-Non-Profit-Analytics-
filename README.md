@@ -52,7 +52,7 @@ Designed to showcase **impact analytics** in Power BI, focusing on how donations
 ## Author
 **Zeeshan Mumtaz**  
 
-## 🛠 Tools & Skills
+## Tools & Skills
 - Power BI (Data Modeling, DAX, Dashboard Design)  
 - Excel/CSV for data cleaning  
 - Data storytelling for NGOs  
